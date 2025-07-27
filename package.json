@@ -1,0 +1,19 @@
+{
+  "name": "neolink3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "browser": {
+    "fingerprint": "navigator.userAgent"
+  },
+  "dependencies": {
+    "fastapi": "^0.68.1",
+    "node": "^16.9.1",
+    "firebase": "^8.6.8"
+  }
+}

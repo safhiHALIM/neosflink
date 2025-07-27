@@ -1,0 +1,7 @@
+ Nom
+
+ Image
+
+ Prix
+
+ Bouton "Acheter" ou "Voir"

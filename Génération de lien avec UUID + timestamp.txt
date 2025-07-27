@@ -1,0 +1,7 @@
+Génération de lien avec UUID + timestamp
+
+Stockage local pour traquer si le lien est déjà utilisé
+
+Fonction de vérification d’expiration (si plus de 1h depuis création → invalide)
+
+Redirection bloquée si lien est expiré ou déjà ouvert

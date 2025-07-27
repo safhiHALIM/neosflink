@@ -1,0 +1,5 @@
+ Ce lien fonctionne une seule fois sur un appareil
+
+ Le lien est temporaire (1 heure max) grâce à un timestamp stocké en localStorage ou sessionStorage
+
+ Si expiré, affichage d’un message : "Ce lien a expiré ou a déjà été utilisé."

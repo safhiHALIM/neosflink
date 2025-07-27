@@ -1,0 +1,7 @@
+Design moderne et clean, couleurs claires avec accents bleus ou gris
+
+Hover sur les cards produits
+
+Animation légère au scroll (fade-in des produits)
+
+Footer avec infos de contact, réseaux sociaux, politique

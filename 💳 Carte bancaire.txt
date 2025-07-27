@@ -1,0 +1,5 @@
+ 💳 Carte bancaire
+
+ 🅿️ PayPal
+
+ 🏦 Virement bancaire (formulaire simple ou info bancaire)

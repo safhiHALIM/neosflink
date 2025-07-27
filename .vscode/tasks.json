@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Ouvrir le site NeoLink3 dans le navigateur",
+			"command": "start msedge index.html",
+			"group": "build",
+			"isBackground": false
+		}
+	]
+}
